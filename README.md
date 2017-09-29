@@ -1,6 +1,7 @@
 # Make Change Project
 
 ## By Chris Gehrke
+### September 2017
 
 First week project for skill Distillery.
 Demonstrates:
