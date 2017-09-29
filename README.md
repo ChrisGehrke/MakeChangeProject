@@ -1,5 +1,7 @@
 # Make Change Project
 
+## By Chris Gehrke
+
 First week project for skill Distillery.
 Demonstrates:
 * Basic Java language skills.
